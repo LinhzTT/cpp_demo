@@ -1,0 +1,1 @@
+/usr/bin/clang++   -std=c++14 -pthread -g -fno-inline -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/test.dir/src/helloworld.cpp.o CMakeFiles/test.dir/src/test.cpp.o CMakeFiles/test.dir/src/test2.cpp.o  -o test 

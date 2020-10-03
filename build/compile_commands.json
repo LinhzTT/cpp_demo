@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/Users/l/Desktop/cmake_test/build",
+  "command": "/usr/bin/clang++   -I/Users/l/Desktop/cmake_test/include   -std=c++14 -pthread -g -fno-inline -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk   -o CMakeFiles/test.dir/src/helloworld.cpp.o -c /Users/l/Desktop/cmake_test/src/helloworld.cpp",
+  "file": "/Users/l/Desktop/cmake_test/src/helloworld.cpp"
+},
+{
+  "directory": "/Users/l/Desktop/cmake_test/build",
+  "command": "/usr/bin/clang++   -I/Users/l/Desktop/cmake_test/include   -std=c++14 -pthread -g -fno-inline -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk   -o CMakeFiles/test.dir/src/test.cpp.o -c /Users/l/Desktop/cmake_test/src/test.cpp",
+  "file": "/Users/l/Desktop/cmake_test/src/test.cpp"
+},
+{
+  "directory": "/Users/l/Desktop/cmake_test/build",
+  "command": "/usr/bin/clang++   -I/Users/l/Desktop/cmake_test/include   -std=c++14 -pthread -g -fno-inline -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk   -o CMakeFiles/test.dir/src/test2.cpp.o -c /Users/l/Desktop/cmake_test/src/test2.cpp",
+  "file": "/Users/l/Desktop/cmake_test/src/test2.cpp"
+}
+]
