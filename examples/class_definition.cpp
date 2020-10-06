@@ -36,6 +36,6 @@ int main()
     a.test(); // 类成员函数
     test();  // 全局函数
     
-    // add for rebase to test the conflict case.
+    // add one line 
     return 0;
 }
