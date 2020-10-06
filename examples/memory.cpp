@@ -22,7 +22,6 @@ int main()
     cout << "字符串常量地址: " << long(&"aaa") << endl;
     cout << "局部常量地址: " << long(&f) << endl;
 
-    // 释放堆区地址
-    delete[] c;
+    delete[] c;  // 释放堆区地址
     c = nullptr; // 指向空指针
 }
