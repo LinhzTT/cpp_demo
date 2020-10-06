@@ -30,12 +30,12 @@ void A::test()
 int main()
 {
     A a;
-    // cout << "private var1 : " << a.mVar1 << endl;
-    // cout << "protected var3 : " << a.mVar3 << endl;
+    // cout << "private var1 : " << a.mVar1 << endl;  // 不可访问
+    // cout << "protected var3 : " << a.mVar3 << endl;  // 不可访问
     cout << "public var2 : " << a.mVar2 << endl;
     a.test(); // 类成员函数
     test();  // 全局函数
     
-    // add for rebase to test the conflict case.
+    // test rebase
     return 0;
 }
