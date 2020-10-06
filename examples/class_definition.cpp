@@ -33,8 +33,8 @@ int main()
     // cout << "private var1 : " << a.mVar1 << endl;  // 不可访问
     // cout << "protected var3 : " << a.mVar3 << endl;  // 不可访问
     cout << "public var2 : " << a.mVar2 << endl;
-    a.test(); // 类成员函数
-    test();  // 全局函数
+   // a.test(); // 类成员函数
+   // test();  // 全局函数
     
     return 0;
 }
