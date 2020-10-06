@@ -33,8 +33,8 @@ int main()
     // cout << "private var1 : " << a.mVar1 << endl;
     // cout << "protected var3 : " << a.mVar3 << endl;
     cout << "public var2 : " << a.mVar2 << endl;
-    a.test();
-    test();
+    a.test(); // 类成员函数
+    test();  // 全局函数
     
     // add for rebase to test the conflict case.
     
