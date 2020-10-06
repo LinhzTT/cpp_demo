@@ -15,4 +15,4 @@ file(GLOB cppSrc0 src/*.cpp)
 
 message(STATUS "file command test" ${cppSrc0})
 
-add_executable(${PROJECT_NAME} ${cppSrc} src/helloworld.cpp)
+add_executable(${PROJECT_NAME} ${cppSrc})

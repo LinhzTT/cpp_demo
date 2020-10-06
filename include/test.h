@@ -1,9 +1,15 @@
-#ifndef TEST_H
-#define TEST_H
+// #ifndef TEST_H
+// #define TEST_H
+#pragma once
 
 #include <iostream>
 
 using namespace std;
 
 void test();
-#endif
+void testWithDefinition()
+{
+    cout << "test function definited in test.h" << endl;
+}
+
+// #endif
