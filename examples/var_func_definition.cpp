@@ -18,7 +18,7 @@ int main()
     string var3 = "a";
     // float var1 = 2.1;  // 无法重定义
 
-    var1 = 20;
+    var1 = 20;  // 可以重新赋值
     // var1 = "aaaa";
 
     test1(var1, var2);
