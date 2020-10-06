@@ -24,5 +24,5 @@ int main()
 
     // 释放堆区地址
     delete[] c;
-    c = nullptr;
+    c = nullptr; // 指向空指针
 }
