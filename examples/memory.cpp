@@ -14,7 +14,7 @@ int main()
     string e = "aaa";  // 这个是局部变量
     const int f = 0;
     cout << "局部变量地址: " << long(&a) << endl; 
-    cout << "静态变量地址: " << long(&b) << endl;
+    // cout << "静态变量地址: " << long(&b) << endl;
     cout << "堆区内存地址: " << long(&*c) << endl;
     cout << "全局常量地址: " << long(&d) << endl;
     cout << "全局变量地址: " << long(&g) << endl;
