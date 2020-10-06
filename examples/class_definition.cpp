@@ -36,5 +36,7 @@ int main()
     a.test();
     test();
     
+    // add for rebase to test the conflict case.
+    
     return 0;
 }
