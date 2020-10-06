@@ -35,6 +35,8 @@ int main()
     cout << "public var2 : " << a.mVar2 << endl;
     a.test();
     test();
+
+    // test for rebase command
     
     // add for rebase to test the conflict case.
     
