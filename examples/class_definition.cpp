@@ -38,7 +38,5 @@ int main()
 
     // test for rebase command
     
-    // add for rebase to test the conflict case.
-    
     return 0;
 }
