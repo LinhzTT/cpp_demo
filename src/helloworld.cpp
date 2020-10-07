@@ -8,7 +8,7 @@ using namespace std;
 int main () 
 {
     cout << "helloword in main.cpp \n\n";
-    test();
+    // test();
     testWithDefinition();
 
     int* p = nullptr;
