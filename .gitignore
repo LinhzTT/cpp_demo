@@ -4,3 +4,5 @@ examples/*
 !examples/*.cpp
 *.o
 *.make
+src/
+!src/*.cpp
